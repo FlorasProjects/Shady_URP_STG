@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Toon_Shader
-  m_Shader: {fileID: -6465566751694194690, guid: 74e8a1a5063991f498230839a240baf8,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 74e8a1a5063991f498230839a240baf8, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -43,7 +42,7 @@ Material:
     - _QueueOffset: 0
     - _Shade_Size: 0.48
     m_Colors:
-    - _Base_Color: {r: 0.0039215684, g: 1, b: 0.53078085, a: 0}
+    - _Base_Color: {r: 1, g: 1, b: 1, a: 0}
     - _Outline_Color: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &4210069030921398782
